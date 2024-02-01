@@ -1,0 +1,54 @@
+#fridge {
+    border: solid black;
+    width:420px;
+    background-color:bisque;
+    text-align:center
+}
+.vegetables {
+    background-color: rgba(128, 128, 128, 0.474);
+    display: inline-block;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-right: 10px;
+}
+.Snacks {
+    background-color: rgba(128, 128, 128, 0.474);
+    display: inline-block;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 40px;
+    padding-right: 40px;
+    margin-left: 10px;
+}
+.Dairy {
+    background-color: rgba(128, 128, 128, 0.474);
+    display: inline-block;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 60px;
+    padding-right: 50px;
+    margin-right: 20px;
+}
+.meats {
+    background-color:rgba(128, 128, 128, 0.474);
+    display: inline-block;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    padding-right: 20px;
+}
+#img1 {
+    height: 200px;
+    margin-left: 50px;
+    position: absolute;
+
+
+}
+
+#img2 {
+    height: 230px;
+    margin-left: 50px;
+    position: absolute;
+}
